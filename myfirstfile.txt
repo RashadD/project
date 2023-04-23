@@ -17,6 +17,3 @@ feature_a
 
 
 testing the revert
-
-
-added a revision line
